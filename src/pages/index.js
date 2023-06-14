@@ -1,3 +1,4 @@
+import Link from "next/link";
 const Users = () => {
   const usuarios = [
     {id:1,name:'paco1'},
